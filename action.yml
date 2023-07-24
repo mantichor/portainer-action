@@ -2,7 +2,7 @@ name: mantichor-portainer-action
 description: deploy to portainer using mantichor manifest
 runs:
   using: docker
-  image: 'docker://docker.io/gradity/mantichor-portainer-action:v0.1.4'
+  image: 'docker://docker.io/gradity/mantichor-portainer-action:v0.1.5'
 branding:
   icon: cpu
   color: purple
